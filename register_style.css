@@ -1,0 +1,60 @@
+body{
+	background-color: green;
+}
+
+.form-container{
+color: white;
+    background-color: #12D61B;
+	background-image: linear-gradient(#12D61B, black);
+    width:25%;
+    border-radius: 4px;
+    margin:120px auto;
+    padding:50px;
+    box-shadow: 10px 10px 5px rgb(5, 85, 19);
+	text-align: center;
+}	
+.form-container form{
+
+}
+.form-container form h3{
+	font-size: 30px;
+	margin-bottom: 10px;
+	color:white;
+}
+.form-container form input{
+	width: 70%;
+	padding: 10px 15px;
+	font-size: 17px;
+	margin: 8px 0;
+	background: #eee;
+	border-radius: 5px;
+}
+.form-container form .form-btn{
+	background: #eee;
+	color: black;
+	text-transform: capitalize;
+	font-size: 20px;
+	cursor: pointer;
+}
+.form-container form .form-btn:hover{
+	background: crimdon;
+	color: black;
+}
+.form-container form p{
+	margin-top: 10px;
+	font-size: 20px;
+	color: white;
+}
+.form-container form p a{
+	color:#12D61B ;
+}
+.form-container form .error-msg{
+	margin: 10px 0;
+	display: block;
+	background:black;
+	color: #fff;
+	border-radius: 5px;
+	font-size: 20px;
+	padding:10px;
+}
+
