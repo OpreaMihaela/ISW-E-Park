@@ -4,18 +4,16 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style1.css" />
     <title>Parking Spots</title>
   </head>
   <body>
   <div class="movie-container">
-      <label>Pick a charger:</label>
-      <select id="movie">
-        <option value="10">1</option>
-        <option value="10">2</option>
-        <option value="10">3</option>
-        <option value="10">4</option>
-      </select>
+      <label>Tipuri de incarcator:</label>
+      <ul>
+       <li>Yazaki (tip 1) - CA, Pmax= 7.4 KWatt</li>
+        <li>Mennekes(tip 2) - CA, Pmax= 22 KWatt</li>
+      </ul>
     </div>
 
     <ul class="showcase">
