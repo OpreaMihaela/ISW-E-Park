@@ -15,6 +15,7 @@
         <li>Mennekes(tip 2) - CA, Pmax= 22 KWatt</li>
         <li>CHAdeMO (modulul 4) - Mitsubishi, Citroen, Peugeot, Pmax= 50 KWatt</li>
         <li>CCS COMBO1 - Suzuki, Mazda, Toyota, Pmax= 50 KWatt</li>
+        <li>CCS COMBO2 - BMW, Volkswagen, Pmax= 50 KWatt</li>
         <li>Connector tip 2 - Tesla Supercharge</li>
       </ul>
       <button type="button" id="btn"><a href="http://localhost/E-Park_Cod/epark.php"><span>Inapoi</span></a></button></p>
@@ -40,42 +41,13 @@
       </div>
 
       <div class="row">
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr9.php?month=04&year=2023">CCS COMBO2</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr10.php?month=04&year=2023">CCS COMBO2</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr11.php?month=04&year=2023">Tesla Supercharge</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr12.php?month=04&year=2023">Tesla Supercharge</a></div>
       </div>
 
-      <div class="row">
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat occupied"></div>
-        <div class="seat occupied"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-      </div>
-
-      <div class="row">
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat occupied"></div>
-        <div class="seat occupied"></div>
-        <div class="seat occupied"></div>
-        <div class="seat"></div>
-      </div>
     </div>
-
-    <p class="text">
-      You have selected <span id="count">0</span> spots for a price of $<span id="total">0</span>
-    </p>
     <script src="script.js"></script>
   </body>
 </html>
