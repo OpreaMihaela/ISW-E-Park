@@ -32,14 +32,11 @@
       </div>
 
       <div class="row">
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat occupied"></div>
-        <div class="seat occupied"></div>
+           <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr5.php?month=04&year=2023">CHAdeMO</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr6.php?month=04&year=2023">CHAdeMO</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr7.php?month=04&year=2023">CCS COMBO1</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr8.php?month=04&year=2023">CCS COMBO1</a></div>
+
       </div>
 
       <div class="row">
