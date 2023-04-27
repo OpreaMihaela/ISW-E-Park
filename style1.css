@@ -105,6 +105,10 @@ body {
   margin: 0 10px;
 }
 
+.showcase li small {
+  margin-left: 10px;
+}
+
 .row {
   display: flex;
 }
