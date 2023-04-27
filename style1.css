@@ -93,6 +93,9 @@ body {
   padding: 5px 10px;
   border-radius: 5px;
   color: #777;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
   }
 
 .row {
