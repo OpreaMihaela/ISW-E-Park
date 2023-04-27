@@ -37,5 +37,11 @@
 				alert("Username field is empty!");
 				return false
 			}
+				if(pass.length==""){
+				alert("Password field is empty!");
+				return false
+			}
+		}
+	</script>
 </body>
 </html>
