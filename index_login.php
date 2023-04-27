@@ -32,5 +32,10 @@
 				alert("Username and password field is empty!");
 				return false
 			}
+			else
+				if(email.length==""){
+				alert("Username field is empty!");
+				return false
+			}
 </body>
 </html>
