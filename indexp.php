@@ -15,7 +15,7 @@
         <li>Mennekes(tip 2) - CA, Pmax= 22 KWatt</li>
         <li>CHAdeMO (modulul 4) - Mitsubishi, Citroen, Peugeot, Pmax= 50 KWatt</li>
         <li>CCS COMBO1 - Suzuki, Mazda, Toyota, Pmax= 50 KWatt</li>
-        <li>CCS COMBO2 - BMW, Volkswagen, Pmax= 50 KWatt</li>
+        <li>Connector tip 2 - Tesla Supercharge</li>
       </ul>
       <button type="button" id="btn"><a href="http://localhost/E-Park_Cod/epark.php"><span>Inapoi</span></a></button></p>
     </div>
