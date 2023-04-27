@@ -24,5 +24,13 @@
 		<p style="font-size: 20px;">Nu ai cont?<a href="register.php">Inregistreaza-te acum</a></p>
 	</form>
 	</div>
+	<script>
+		function isvalid(){
+			var email = document.form.email.value;
+			var pass = document.form.pass.value;
+			if(email.length=="" && pass.length==""){
+				alert("Username and password field is empty!");
+				return false
+			}
 </body>
 </html>
