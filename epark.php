@@ -63,6 +63,8 @@
 			height: 100%;
 			padding: 20px;
 			float: left;
+			right: -10px;
+			right: 0;
 			color: white;
 			background-color: rgb(179, 179, 179, 0.7);
 			}
