@@ -21,39 +21,14 @@
     </div>
   
   </ul>
-   
-      <li>
-        <div class="seat selected"></div>
-        <small>Selected</small>
-      </li>
-
-      <li>
-        <div class="seat occupied"></div>
-        <small>Occupied</small>
-      </li>
-    </ul>
 
     <div class="container">
       <div class="screen"></div>
       <div class="row">
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-      </div>
-      <div class="row">
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat occupied"></div>
-        <div class="seat occupied"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
-        <div class="seat"></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr1.php?month=04&year=2023">Yazaki (tip 1)</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr2.php?month=04&year=2023">Yazaki (tip 1)</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr3.php?month=04&year=2023">Mennekes(tip 2)</a></div>
+        <div class="seat" style="text-align:center; padding-top:35px"><a href="http://localhost/E-Park_Cod/indexr4.php?month=04&year=2023">Mennekes(tip 2)</a></div>
       </div>
 
       <div class="row">
