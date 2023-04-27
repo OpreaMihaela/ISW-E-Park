@@ -145,16 +145,11 @@
 			<img src="sigla.jpeg" alt="Avatar" style="width:300px">
 		</div>
 		<br><br><br><br><br><br><br>
-		<?php 
- 				echo '<form method="POST" action="indexp.php">
- 				   <input type="submit"/>
- 					 </form>';
-			?>
 		<div class="doi">
 			<h style="font-size: 50px;"><b>Bun Venit!</b></h>
 			<p style="font-size: 25px;">E-Park, platforma online ce vine în ajutorul persoanelor cu autovehicule electrice. Rezervă un loc de parcare într-un mod simplu, rapid și sigur, profitând de cele mai bune servicii.</p>
 			<p style="font-size: 18px;"> <br>
-
+			<button type="button" id="btn" class="unitbv"><a href="http://localhost/E-Park_Cod/indexp.php"><span>Rezervă</span></a></button></p>
 		</div>
 		<div class="footer1">
 			<footer>
