@@ -13,7 +13,7 @@
         }
         else{
             echo '<script>
-                window.location.href = "index.php";
+                window.location.href = "index_login.php";
                 alert("Login failed. Invalid username or password.")
             </script>';
 
