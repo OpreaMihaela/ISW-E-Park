@@ -19,13 +19,9 @@
       </ul>
       <button type="button" id="btn"><a href="http://localhost/E-Park_Cod/epark.php"><span>Inapoi</span></a></button></p>
     </div>
-
-    <ul class="showcase">
-      <li>
-        <div class="seat"></div>
-        <small>N/A</small>
-      </li>
-
+  
+  </ul>
+   
       <li>
         <div class="seat selected"></div>
         <small>Selected</small>
