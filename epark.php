@@ -136,8 +136,9 @@
  		<ul>
 
 			<li><a href="http://localhost/E-Park_Cod/epark.php">Acasa</a><li>
-			<li><a href="http://localhost/E-Park_Cod/detalii.php">Detalii</a></li>
-			<li><a>Rezervă</a></li>
+			<li><a href="file:///C:/xampp/htdocs/phplogin/contact.htm">Detalii</a></li>
+			<li><a href="http://localhost/E-Park_Cod/indexp.php">Rezervă</a></li>
+			
 		</ul>
 		<div class="unu">
 			<br><br><br><br><br><br><br><br><br>
