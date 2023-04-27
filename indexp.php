@@ -11,9 +11,12 @@
   <div class="movie-container">
       <label>Tipuri de incarcator:</label>
       <ul>
-       <li>Yazaki (tip 1) - CA, Pmax= 7.4 KWatt</li>
+        <li>Yazaki (tip 1) - CA, Pmax= 7.4 KWatt</li>
         <li>Mennekes(tip 2) - CA, Pmax= 22 KWatt</li>
+        <li>CHAdeMO (modulul 4) - Mitsubishi, Citroen, Peugeot, Pmax= 50 KWatt</li>
+        <li>CCS COMBO1 - Suzuki, Mazda, Toyota, Pmax= 50 KWatt</li>
       </ul>
+      <button type="button" id="btn"><a href="http://localhost/E-Park_Cod/epark.php"><span>Inapoi</span></a></button></p>
     </div>
 
     <ul class="showcase">
