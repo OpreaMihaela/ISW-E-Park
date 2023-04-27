@@ -11,7 +11,8 @@
 		.header {
 			position: fixed;
 			width: 100%;
-    		background-color: #12D61B;;
+			top: 0;
+    			background-color: #12D61B;;
 			text-align: center;
 			padding: 0;
 			height:136.5px;
@@ -24,6 +25,7 @@
 			}
 		ul {
 			position: fixed;
+			top: 120px;
 			width: 100%;
 			list-style-type: none;
 			margin: 0;
@@ -50,6 +52,8 @@
 			height: 100%;
 			text-align: center;
 			float: left;
+			clear: left;
+			left: -10px;
 			}
 		img {
 			border-radius: 50%;
